@@ -45,3 +45,4 @@ http://creativecommons.org/licenses/by-nc/3.0/
 
 ---
 
+"spacestation" by Space Elevator Guy is licensed under CC BY-NC-SA 2.0
