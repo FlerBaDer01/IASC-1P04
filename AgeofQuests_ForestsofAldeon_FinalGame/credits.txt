@@ -6,7 +6,7 @@ IMAGES
 Isometric medieval / fantasy pixel house by RGBfumes
 Published: May 26, 2015
 Creative Commons Attribution-Share Alike 3.0 License
-https://creativecommons.org/licenses/by-sa/3.0/
+Liscensed Under: https://creativecommons.org/licenses/by-sa/3.0/
 
 Forest ruins - 64x64 - palette rosy42 by u/Rileywox
 Published: June, 06, 2020
@@ -23,12 +23,15 @@ AUDIO
 
 Slash - Rpg - by colorsCrimsonTears 
 Published: July 12th, 2021
-http://creativecommons.org/publicdomain/zero/1.0/
+Liscensed Under: http://creativecommons.org/publicdomain/zero/1.0/
 
 
 swoosh.wav by PorkMuncher
 Published: February 8th, 2015
-http://creativecommons.org/publicdomain/zero/1.0/
+Liscensed Under: http://creativecommons.org/publicdomain/zero/1.0/
 
+coin7.wav by The-Sacha-Rush
+Published: February 17th, 2016
+Liscensed Under: http://creativecommons.org/publicdomain/zero/1.0/
 
 ---
