@@ -4,7 +4,7 @@ Welcome to the webiste for my Twine Game, created for the course IASC 1P04 at Br
 
 ## Play Now!
 
-Play [Age of Quests: Forests of Aldeon]()
+Play [Age of Quests: Forests of Aldeon](AgeofQuests_ForestsofAldeon_FinalGame/final_build/AgeofQuests_ForestsofAldeon.html)
 
 ## Playtest
 
