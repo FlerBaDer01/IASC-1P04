@@ -2,6 +2,10 @@
 
 Welcome to the webiste for my Twine Game, created for the course IASC 1P04 at Brock University
 
+## Play Now!
+
+Play [Age of Quests: Forests of Aldeon]()
+
 ## Playtest
 
 Playtest my game [here](playtest/playtest)
